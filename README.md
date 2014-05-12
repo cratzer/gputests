@@ -12,4 +12,4 @@ Contenido hasta 05/12/14
 
 # Dependencias/Requisitos
 
-Una instalación de IPython Notebook con Numpy y Matplotlib. Se recomienda [Anaconda](http://continuum.io/downloads)
+Una instalación de IPython Notebook, por ejemplo [Anaconda](http://continuum.io/downloads)
